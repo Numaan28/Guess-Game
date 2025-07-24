@@ -18,7 +18,10 @@ while(a != n):
         print("its HIGHER than you predicted")
     else:
         print(f"🎉 You guessed it right! The number was {n}.")
-        print(f"You guessed it in {guesses} attempts.")    
+        print(f"You guessed it in {guesses} attempts.")  
+
+        #code by salman
+        #github = numaan28
         
 
            
